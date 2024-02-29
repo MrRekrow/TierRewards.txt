@@ -1,4 +1,2 @@
- "A Drink"|ingredient1|ingredient2|ingredient3|ingredient4|ice|age
-"test"|1|0|0|0|1|0
- "Another Drink"|ingredient1|ingredient2|ingredient3|ingredient4|ice|age
-"test"|2|0|0|0|0|0
+"A Drink"|1|0|0|0|1|0
+"Another Drink"|2|0|0|0|0|0
