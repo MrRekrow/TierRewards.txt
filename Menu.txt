@@ -1,2 +1,2 @@
-"A Drink"|1|0|0|0|1|0
-"Another Drink"|2|0|0|0|0|0
+A Drink|1|0|0|0|1|0
+Another Drink|2|0|0|0|0|0
